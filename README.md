@@ -7,3 +7,6 @@ aula 2 sobre comando e atalhos do git no vscode
 
 2. git commit -m "mensagem"
 = a colocar uma mensagem ali no campo do 3º atalho e depois clicar no botao commit
+
+3. git push
+= clicar no botao sincronizar changes
